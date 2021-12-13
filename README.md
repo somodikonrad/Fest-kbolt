@@ -1,1 +1,4 @@
 # Fest-kbolt
+Somodi Konrád
+
+
