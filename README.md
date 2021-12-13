@@ -1,6 +1,7 @@
 # Fest-kbolt
-Somodi Konrád
+Somodi Konrád - CSS
 
-Ótott-Kovács Máté
+Ótott-Kovács Máté - HTML
 
-Vargacz Gergő
+Vargacz Gergő - Utómunka, kinézet
+
