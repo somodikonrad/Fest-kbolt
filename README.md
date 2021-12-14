@@ -5,3 +5,4 @@ Somodi Konrád - CSS
 
 Vargacz Gergő - Utómunka, kinézet
 
+1. lépés
