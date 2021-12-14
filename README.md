@@ -5,4 +5,5 @@ Somodi Konrád - CSS
 
 Vargacz Gergő - Utómunka, kinézet
 
-1. lépés
+1. lépés Somodi Konrád
+2. lépés Ótott-Kovács Máté
