@@ -9,4 +9,4 @@ Vargacz Gergő - Utómunka, kinézet
 2. lépés Ótott-Kovács Máté
 3. lépés Vargacz Gergő
 
-
+https://somodikonrad.github.io/Fest-kbolt/
