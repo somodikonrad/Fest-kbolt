@@ -1,0 +1,22 @@
+body, html {
+    height: 650px;
+  
+  
+    
+    background-image: url("../képek/szerszamok.png");
+  
+    
+    height: 650px;
+  
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: white;
+}
+
+h2{
+    color: white;
+}
