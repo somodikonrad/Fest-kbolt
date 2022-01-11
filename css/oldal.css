@@ -12,11 +12,23 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+   
 }
 p{
     color: white;
+    text-align: center;
 }
 
 h2{
     color: white;
+    text-align: center;
 }
+img{
+    float: right;
+    text-indent: right;
+    border-radius: 100%;
+    width: 300px;
+    position: relative;
+    
+}
+
