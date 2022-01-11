@@ -41,8 +41,10 @@ nav li {
   display: inline-block;
   margin-left: 70px;
   padding-top: 23px;
-
   position: relative;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-weight: bold;
 }
 
 nav a {
@@ -72,4 +74,52 @@ nav a::before {
 
 nav a:hover::before {
   width: 100%;
+}
+
+/*Telefonos menü*/
+
+.mobil-nav {
+  overflow: hidden;
+  background-color: #55d6aa;
+  position: relative;
+  display: none;
+}
+
+.mobil-nav #hivatkozasok {
+  display: none;
+}
+
+.mobil-nav a {
+  color: #444;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.mobil-nav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.mobil-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+@media (max-width: 992px) { 
+  nav{
+      display: none;
+  }
+
+  .mobil-nav{
+      display: block;
+  }
+
+  header{
+    display: none;
+  }
 }

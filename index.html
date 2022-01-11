@@ -7,16 +7,17 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/oldal.css">
     <link rel="stylesheet" href="./css/bootstrap.css">
+    <!--Mobilos nézethez kell!-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="css/mobil.js"></script>
     <title>Főoldal</title>
 
 </head>
 <body>
   
-
-  <header>  
+<header>  
   <div class="container">
     <h1 class="logo"></h1>
-
     <nav>
       <ul>
         <li><a href="index.html">Főoldal</a></li>
@@ -28,7 +29,25 @@
       </ul>
     </nav>
   </div>
- </header>
+</header>
+
+<!--Mobilos nézethez kell!-->
+<div class="mobil-nav">
+  <h3 style="color: #444; padding: 8.5px 8.5px;">Főoldal</h3>
+  <div id="hivatkozasok">
+      <a href="index.html">Főoldal</a>
+      <a href="festekek.html">Festékek</a>
+      <a href="faanyagok.html">Faanyagok</a>
+      <a href="szerszamkatalogus.html">Szerszámkatalógus</a>
+      <a href="rolunk.html">Rólunk</a>
+      <a href="blog.html">Blog</a>
+  </div>
+  <a href="javascript:void(0);" class="icon" style="color: white;" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+<!--Mobilos nézethez vége!-->
+
 <div id="jobboldal">
   <img src="képek/bukk.jpg">
 </div>
@@ -55,4 +74,3 @@
   </div>
 </body>
 </html>
-
