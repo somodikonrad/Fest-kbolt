@@ -19,6 +19,7 @@ body, html {
 p{
     color: white;
     text-align: left;
+    padding: 35px;
  
 }
 
@@ -30,7 +31,7 @@ img{
     float: right;
     text-indent: right;
     border-radius: 100%;
-    width: 300px;
+    width: 250px;
     position: relative;
 }   
 
@@ -39,7 +40,8 @@ tr{
     background-color: grey;
     width: 100%;
     height: 50px;
-
+    padding: inherit;
+    
     
 }
 
@@ -48,3 +50,39 @@ th{
     background: black;
     
 }
+.table table-hover{
+    padding: 35px;
+}
+td, th{
+    padding: 35px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-align: left;
+}
+#tolgyIMG{
+    position: relative;
+    margin: 35px;
+    float: left;
+}
+#bukkIMG{
+    position: relative;
+    margin: 35px;
+}
+#dioIMG{
+    position: relative;
+    margin: 35px;
+}
+#mahaIMG{
+    position: relative;
+    margin: 35px;
+}
+#csereIMG{
+    position: relative;
+    margin: 35px;
+}
+
