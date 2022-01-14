@@ -28,10 +28,9 @@ h2{
     text-align: center;
 }
 img{
-    float: right;
-    text-indent: right;
+    float: none;
     border-radius: 100%;
-    width: 250px;
+    width: 280px;
     position: relative;
 }   
 
@@ -67,22 +66,36 @@ a{
 #tolgyIMG{
     position: relative;
     margin: 35px;
+    display: block;
     float: left;
 }
 #bukkIMG{
-    position: relative;
+   position: relative;
     margin: 35px;
+    display: block;
+    float: left;
 }
 #dioIMG{
     position: relative;
     margin: 35px;
+    display: block;
+    float: right;
 }
 #mahaIMG{
     position: relative;
     margin: 35px;
+    display: block;
+    float: left;
 }
 #csereIMG{
     position: relative;
     margin: 35px;
+    display: block;
+    float: left;
 }
 
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
