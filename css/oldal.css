@@ -25,13 +25,14 @@ p{
 
 h2{
     color: white;
-    text-align: center;
+    text-align: left;
+    margin-left: 35px;
 }
 img{
     float: none;
-    border-radius: 100%;
     width: 280px;
     position: relative;
+    border-radius: 100%;
 }   
 
 tr{
@@ -64,30 +65,35 @@ a{
     text-align: left;
 }
 #tolgyIMG{
+    border-radius: 100%;
     position: relative;
     margin: 35px;
     display: block;
     float: left;
 }
 #bukkIMG{
+    border-radius: 100%;
    position: relative;
     margin: 35px;
     display: block;
     float: left;
 }
 #dioIMG{
+    border-radius: 100%;
     position: relative;
     margin: 35px;
     display: block;
     float: right;
 }
 #mahaIMG{
+    border-radius: 100%;
     position: relative;
     margin: 35px;
     display: block;
     float: left;
 }
 #csereIMG{
+    border-radius: 100%;
     position: relative;
     margin: 35px;
     display: block;
@@ -98,4 +104,23 @@ a{
 .img-with-text img {
     display: block;
     margin: 0 auto;
+}
+h3{
+    color: white;
+    padding: 35px;
+}
+
+.szerszamgep{
+    width: 175px;
+    height: 175px;
+}
+
+.veso{
+    width: 200px;
+    height: 200px;
+}
+
+.furesz{
+    width: 200px;
+    height: 200px;
 }
