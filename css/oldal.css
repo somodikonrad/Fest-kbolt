@@ -141,3 +141,62 @@ h3{
 .vodroskep{
     border-radius: 0%;
 }
+.rolunk{
+    text-align: center;
+    padding-top: 15px;
+}
+.konci{
+    position: relative;
+    margin: 15px;
+    display: block;
+    float: left;
+    width: 200px;
+}
+
+.gercso{
+    position: relative;
+    margin: 15px;
+    display: block;
+    float: right;
+    width: 200px;
+}
+
+.ocsi{
+    position: relative;
+    margin: 15px;
+    display: block;
+    float: left;
+    width: 200px;
+}
+
+.gergo{
+    text-align: right;
+    padding-left: 15px;
+    padding:0px;
+    margin-right: 25px;
+}
+
+.konci1{
+    padding-right: 15px;
+    text-align: left;
+    padding:0px;
+    margin-left: 25px;
+}
+
+.ocsi1{
+    padding: 20px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.konrad{
+    text-align: left;
+    padding: 25px;
+    margin-top: 10px;
+}
+
+.mate{
+    text-align: left;
+    padding: 25px;
+    margin-top: 10px;
+}
