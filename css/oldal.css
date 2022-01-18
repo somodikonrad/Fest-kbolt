@@ -200,3 +200,66 @@ h3{
     padding: 25px;
     margin-top: 10px;
 }
+.vodroskep1{
+    border-radius: 50%;
+    padding-top: 25px;
+    width: 300px;
+    margin-left: 50px;
+   
+}
+.vodroskep2{
+    border-radius: 50%;
+    padding-top: 25px;
+    width: 300px;
+    margin-left: 50px;
+  
+}
+.vodroskep3{
+    border-radius: 50%;
+    padding-top:  25px;
+    width: 300px;
+    float: right;
+    margin-right: 50px;
+   
+}
+.vodroskep4{
+    border-radius: 50%;
+    padding-top: 25px;
+    width: 300px;
+    float: right;
+    margin-right: 50px;
+    
+}
+.vodroskep5{
+    border-radius: 50%;
+    padding-top: 25px;
+    margin-top: 150px;
+    width: 300px;
+    margin-left: 50px;
+  
+}
+.vodroskep6{
+    border-radius: 50%;
+    padding-top: 25px;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 50px;
+    
+}
+.vodroskep7{
+    border-radius: 50%;
+    padding-top: 25px;
+    width: 300px;
+    float: right;
+    margin-top: 150px;
+    margin-right: 50px;
+}
+.vodroskep8{
+    border-radius: 50%;
+    padding-top: 25px;
+    width: 300px;
+    float: right;
+    margin-top: 150px;
+    margin-right: 50px;
+}
+
