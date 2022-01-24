@@ -319,8 +319,11 @@ h3{
     line-height: 175%;
 }
 .vodrok{
-    height: 300px;
-    width: 300px;
     display: flex;
     align-items: flex-end;
+    flex-wrap: wrap;
+}
+.vodor {
+    flex-direction: row;
+    align-items: center;
 }
