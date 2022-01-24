@@ -207,66 +207,76 @@ h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .vodroskep1{
-    border-radius: 50%;
-    padding-top: 25px;
-    width: 300px;
-    margin-left: 50px;
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
    
 }
 .vodroskep2{
-    border-radius: 50%;
-    padding-top: 25px;
-    width: 300px;
-    margin-left: 50px;
+    
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    
   
 }
 .vodroskep3{
-    border-radius: 50%;
-    padding-top:  25px;
-    width: 300px;
-    float: right;
-    margin-right: 50px;
+    
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
    
 }
 .vodroskep4{
-    border-radius: 50%;
-    padding-top: 25px;
-    width: 300px;
-    float: right;
-    margin-right: 50px;
     
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
 }
 .vodroskep5{
-    border-radius: 50%;
-    padding-top: 25px;
-    margin-top: 150px;
-    width: 300px;
-    margin-left: 50px;
+    
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
   
 }
 .vodroskep6{
-    border-radius: 50%;
-    padding-top: 25px;
-    width: 300px;
-    margin-top: 150px;
-    margin-left: 50px;
+    
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
     
 }
 .vodroskep7{
-    border-radius: 50%;
-    padding-top: 25px;
-    width: 300px;
-    float: right;
-    margin-top: 150px;
-    margin-right: 50px;
+    
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    
+    
 }
 .vodroskep8{
-    border-radius: 50%;
-    padding-top: 25px;
-    width: 300px;
-    float: right;
-    margin-top: 150px;
-    margin-right: 50px;
+   
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    
 }
 
 .fafel{
@@ -308,4 +318,9 @@ h3{
     text-align: left;
     line-height: 175%;
 }
-
+.vodrok{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
