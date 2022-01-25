@@ -209,7 +209,7 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
-   
+   border-radius: 8px;
 }
 .vodroskep2{
     
@@ -218,7 +218,7 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
-    
+    border-radius: 8px;
   
 }
 .vodroskep3{
@@ -228,7 +228,7 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
-   
+    border-radius: 8px;
 }
 .vodroskep4{
     
@@ -237,6 +237,7 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
+    border-radius: 8px;
 }
 .vodroskep5{
     
@@ -245,7 +246,7 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
-  
+    border-radius: 8px;
 }
 .vodroskep6{
     
@@ -254,7 +255,7 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
-    
+    border-radius: 8px;
 }
 .vodroskep7{
     
@@ -263,7 +264,7 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
-    
+    border-radius: 8px;
     
 }
 .vodroskep8{
@@ -273,7 +274,8 @@ h3{
     display: inline-block;
     text-align: center;
     margin: auto;
-    
+    border-radius: 8px;
+
 }
 
 .fafel{
@@ -319,6 +321,7 @@ h3{
     display: flex;
     align-items: flex-end;
     flex-wrap: wrap;
+    
 }
 .vodor {
     flex-direction: row;
