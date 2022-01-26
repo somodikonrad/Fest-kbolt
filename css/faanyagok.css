@@ -1,0 +1,112 @@
+body, html {
+    height: 650px;
+  
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.6) 150%), url(../képek/3569655.jpg);
+    
+    
+    
+
+    height: 800px;
+  
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    min-height: 100%;
+
+    
+   
+}
+p{
+    color: white;
+}
+
+h2{
+    color: white;
+    text-align: left;
+    margin-left: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    float: none;
+    width: 280px;
+    position: relative;
+    border-radius: 100%;
+}   
+
+tr{
+    color: white;
+    background-color: grey;
+    width: 100%;
+    height: 50px;
+    padding: inherit;
+    
+    
+}
+
+th{
+    text-align: center;
+    background: black;
+    
+}
+.table table-hover{
+    padding: 35px;
+}
+td, th{
+    padding: 35px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-align: left;
+}
+#tolgyIMG{
+    border-radius: 100%;
+    position: relative;
+    margin: 10px;
+    display: flex;
+    float: left;
+    width: 222px;
+}
+#bukkIMG{
+    border-radius: 100%;
+   position: relative;
+    margin: 10px;
+    display: flex;
+    float: left;
+    width: 222px;
+}
+#dioIMG{
+    border-radius: 100%;
+    position: relative;
+    margin: 10px;
+    display: flex;
+    float: left;
+    width: 222px;
+}
+#mahaIMG{
+    border-radius: 100%;
+    position: relative;
+    margin: 10px;
+    display: flex;
+    float: left;
+    width: 222px;
+}
+#csereIMG{
+    border-radius: 100%;
+    position: relative;
+    margin: 10px;
+    display: flex;
+    float: left;
+    width: 222px;
+}
+
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
