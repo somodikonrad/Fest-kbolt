@@ -71,6 +71,7 @@ a{
     display: flex;
     float: left;
     width: 222px;
+    margin-top: 200px;
 }
 #bukkIMG{
     border-radius: 100%;
@@ -79,6 +80,7 @@ a{
     display: flex;
     float: left;
     width: 222px;
+    margin-top: 200px;
 }
 #dioIMG{
     border-radius: 100%;
@@ -87,6 +89,7 @@ a{
     display: flex;
     float: left;
     width: 222px;
+    margin-top: 200px;
 }
 #mahaIMG{
     border-radius: 100%;
@@ -95,6 +98,7 @@ a{
     display: flex;
     float: left;
     width: 222px;
+    margin-top: 200px;
 }
 #csereIMG{
     border-radius: 100%;
@@ -103,10 +107,17 @@ a{
     display: flex;
     float: left;
     width: 222px;
+    margin-left: 300px;
+    margin-top: 200px;
 }
 
 
 .img-with-text img {
     display: block;
     margin: 0 auto;
+}
+
+.faanyag{
+    margin-top: 50px;
+    font-size: 65px;
 }
