@@ -64,53 +64,6 @@ h1{
 a{
     text-align: left;
 }
-#tolgyIMG{
-    border-radius: 100%;
-    position: relative;
-    margin: 10px;
-    display: flex;
-    float: left;
-    width: 222px;
-    margin-top: 200px;
-}
-#bukkIMG{
-    border-radius: 100%;
-   position: relative;
-    margin: 10px;
-    display: flex;
-    float: left;
-    width: 222px;
-    margin-top: 200px;
-}
-#dioIMG{
-    border-radius: 100%;
-    position: relative;
-    margin: 10px;
-    display: flex;
-    float: left;
-    width: 222px;
-    margin-top: 200px;
-}
-#mahaIMG{
-    border-radius: 100%;
-    position: relative;
-    margin: 10px;
-    display: flex;
-    float: left;
-    width: 222px;
-    margin-top: 200px;
-}
-#csereIMG{
-    border-radius: 100%;
-    position: relative;
-    margin: 10px;
-    display: flex;
-    float: left;
-    width: 222px;
-    margin-left: 300px;
-    margin-top: 200px;
-}
-
 
 .img-with-text img {
     display: block;
@@ -120,4 +73,30 @@ a{
 .faanyag{
     margin-top: 50px;
     font-size: 65px;
+}
+
+#fasection {
+    display: flex;
+    width: auto !important;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#fasection a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#fasection a p {
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(82, 82, 82);
+    width: 50%;
+}
+
+.naonklasz {
+    max-width: 15rem;
 }

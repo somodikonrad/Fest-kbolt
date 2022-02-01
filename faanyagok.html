@@ -1,71 +1,85 @@
 <!DOCTYPE html>
 <html lang="hu">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/faanyagok.css">
-    <link rel="stylesheet" href="./css/bootstrap.css">
-    <!--Mobilos nézethez kell!-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="css/mobil.js"></script>
-    <title>Faanyagok</title>
-</head>
-<body>
-<header>
-  <div class="container">
-    <h1 class="logo"></h1>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="./css/style.css" />
+		<link rel="stylesheet" href="./css/faanyagok.css" />
+		<link rel="stylesheet" href="./css/bootstrap.css" />
+		<!--Mobilos nézethez kell!-->
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+		/>
+		<script src="css/mobil.js"></script>
+		<title>Faanyagok</title>
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<h1 class="logo"></h1>
 
-    <nav>
-      <ul>
-        <li><a href="index.html">Főoldal</a></li>
-        <li><a href="faanyagok.html">Faanyagok</a></li>
-        <li><a href="festekek.html">Festékek</a></li>
-        <li><a href="szerszamkatalogus.html">Szerszámkatalógus</a></li>
-        <li><a href="rolunk.html">Rólunk</a></li>
-        <li><a href="blog.html">Blog</a></li>
-      </ul>
-    </nav>
-  </div>
-</header>
-  <h1 class="faanyag">Faanyagok</h1>
-  <!--Mobilos nézethez kell!-->
-  <div class="mobil-nav">
-    <h3 style="color: #444; padding: 8.5px 8.5px;">Faanyagok</h3>
-    <div id="hivatkozasok">
-        <a href="index.html">Főoldal</a>
-        <a href="festekek.html">Festékek</a>
-        <a href="faanyagok.html">Faanyagok</a>
-        <a href="szerszamkatalogus.html">Szerszámkatalógus</a>
-        <a href="rolunk.html">Rólunk</a>
-        <a href="blog.html">Blog</a>
-    </div>
-    <a href="javascript:void(0);" class="icon" style="color: white;" onclick="myFunction()">
-      <i class="fa fa-bars"></i>
-    </a>
-  </div>
-  <!--Mobilos nézethez vége!-->
+				<nav>
+					<ul>
+						<li><a href="index.html">Főoldal</a></li>
+						<li><a href="faanyagok.html">Faanyagok</a></li>
+						<li><a href="festekek.html">Festékek</a></li>
+						<li>
+							<a href="szerszamkatalogus.html"
+								>Szerszámkatalógus</a
+							>
+						</li>
+						<li><a href="rolunk.html">Rólunk</a></li>
+						<li><a href="blog.html">Blog</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<!--Mobilos nézethez kell!-->
+		<div class="mobil-nav">
+			<h3 style="color: #444; padding: 8.5px 8.5px">Faanyagok</h3>
+			<div id="hivatkozasok">
+				<a href="index.html">Főoldal</a>
+				<a href="festekek.html">Festékek</a>
+				<a href="faanyagok.html">Faanyagok</a>
+				<a href="szerszamkatalogus.html">Szerszámkatalógus</a>
+				<a href="rolunk.html">Rólunk</a>
+				<a href="blog.html">Blog</a>
+			</div>
+			<a
+				href="javascript:void(0);"
+				class="icon"
+				style="color: white"
+				onclick="myFunction()"
+			>
+				<i class="fa fa-bars"></i>
+			</a>
+		</div>
+		<!--Mobilos nézethez vége!-->
+		<h1 class="faanyag">Faanyagok</h1>
 
-    
-<a href="cseresznye.html">
-  <img src="./képek/cseresznye1.jpg" id="csereIMG" title="Cseresznye">
-</a>
-<a href="mahagoni.html">
-  <img src="./képek/mahagoni.jpg" id="mahaIMG" title="Mahagóni">
-</a>
-<a href="index.html">
-  <img src="./képek/bukk1.jpg" id="bukkIMG" title="Bükk">
-</a>
-<a href="dio.html">
-  <img src="./képek/dio1.jpg" id="dioIMG" title="Dió">
-</a>
-<a href="tolgy.html">
-  <img src="./képek/tolgy.jpg" id="tolgyIMG" title="Tölgy">
-</a>
-
-  
-</body>
+		<section id="fasection">
+			<a href="cseresznye.html">
+				<img src="./képek/cseresznye1.jpg" title="Cseresznye" class="naonklasz"/>
+				<p>Cseresznye</p>
+			</a>
+			<a href="mahagoni.html">
+				<img src="./képek/mahagoni.jpg" title="Mahagóni" class="naonklasz" />
+				<p>Mahagóni</p>
+			</a>
+			<a href="index.html">
+				<img src="./képek/bukk1.jpg" title="Bükk" class="naonklasz" />
+				<p>Bükk</p>
+			</a>
+			<a href="dio.html">
+				<img src="./képek/dio1.jpg" title="Dió" class="naonklasz" />
+				<p>Dió</p>
+			</a>
+			<a href="tolgy.html">
+				<img src="./képek/tolgy.jpg" title="Tölgy" class="naonklasz"/>
+				<p>Tölgy</p>
+			</a>
+		</section>
+	</body>
 </html>
-
-  
