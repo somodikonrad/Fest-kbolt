@@ -111,17 +111,27 @@ h3{
 .szerszamgep{
     width: 175px;
     height: 175px;
+    border-radius: 0%;
 }
 
 .veso{
     width: 200px;
     height: 200px;
+    border-radius: 0%;
 }
 
 .furesz{
     width: 200px;
     height: 200px;
+    border-radius: 0%;
 }
+
+.furo{
+    width: 200px;
+    height: 200px;
+    border-radius: 0%;
+}
+
 .veso2{
     padding-top: 15px;
 
