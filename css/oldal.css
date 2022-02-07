@@ -109,27 +109,39 @@ h3{
 }
 
 .szerszamgep{
-    width: 175px;
-    height: 175px;
-    border-radius: 0%;
+    width: 225px;
+    height: 225px;
+    border-radius: 5%;
+    margin-left: 45px;
+    margin-right: 45px;
 }
 
 .veso{
-    width: 200px;
-    height: 200px;
-    border-radius: 0%;
+    width: 225px;
+    height: 225px;
+    border-radius: 5%;
+    margin-left: 45px;
+    margin-right: 45px;
 }
 
 .furesz{
-    width: 200px;
-    height: 200px;
-    border-radius: 0%;
+    width: 225px;
+    height: 225px;
+    border-radius: 5%;
+    margin-left: 45px;
+    margin-right: 45px;
 }
 
 .furo{
-    width: 200px;
-    height: 200px;
-    border-radius: 0%;
+    width: 225px;
+    height: 225px;
+    border-radius: 5%;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.szerszamok{
+    margin-top: 300px;
 }
 
 .veso2{
