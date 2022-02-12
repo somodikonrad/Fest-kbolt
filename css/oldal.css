@@ -109,32 +109,51 @@ h3{
 }
 
 .szerszamgep{
-    width: 175px;
-    height: 175px;
-    border-radius: 0%;
+    width: 200px;
+    height: 200px;
+    border-radius: 3%;
+    
+    float:left;
 }
 
 .veso{
     width: 200px;
     height: 200px;
-    border-radius: 0%;
+    border-radius: 3%;
+   
+    float: left;
 }
 
 .furesz{
     width: 200px;
     height: 200px;
-    border-radius: 0%;
+    border-radius: 3%;
+    
+    float:left;
 }
 
 .furo{
     width: 200px;
     height: 200px;
-    border-radius: 0%;
+    border-radius: 3%;
+    
+    float:left;
 }
-
-.veso2{
-    padding-top: 15px;
-
+.szerszamok{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.kepek{
+   border: white solid 5px;
+    
+}
+.szerszamkep{
+    width: 200px;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    
 }
 .index-h2{
     text-align: center;
