@@ -1,5 +1,29 @@
-p{
+p {
     color: white;
-    text-align: left;
-    padding: 35px;
+}
+
+.vodrok {
+    min-height: 95vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.vodor {
+    margin: 5px;
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+}
+
+.desc {
+    margin: 0;
+    padding: 0;
+    
+    color: rgb(214, 214, 214);
 }
